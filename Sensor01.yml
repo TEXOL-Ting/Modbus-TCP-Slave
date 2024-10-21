@@ -1,0 +1,20 @@
+port: 502
+SensorID: "030001"
+OA_Axial:
+    - 2.7
+    - 0.2
+OA_Radial_1:
+    - 2.9
+    - 0.2
+OA_Radial_2:
+    - 4.9
+    - 0.2
+Def_Bea:
+    - 7.4
+    - 0.2
+Def_Imb:
+    - 0.4
+    - 0.1
+OA_QC:
+    - 2.8
+    - 4.5
