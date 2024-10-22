@@ -139,6 +139,8 @@ func handleReadInputRegisters(conn net.Conn, request []byte) {
 
 func main() {
 
+	//fmt.Println("filename:", os.Args)
+
 	if len(os.Args) < 2 {
 		fmt.Println("Usage: ./Simulation_Modbus <filename>")
 		return

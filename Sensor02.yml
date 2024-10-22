@@ -1,4 +1,4 @@
-port: 503
+port: 502
 SensorID: "030002"
 OA_Axial:
     - 2.7
